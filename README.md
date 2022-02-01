@@ -1,4 +1,4 @@
 # notes-app
 Notes App
-Es una App para crear notas. Tiene login de usuarios y cada uno puede crear, editar y liminar sus notas.
+Es una aplicadion para crear notas. Tiene login de usuarios y cada usuario puede crear, editar y eliminar sus notas.
 Esta creada con JavaScript, Express, Handelbars, NodeJs, MongoDB
